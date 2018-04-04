@@ -1,0 +1,4 @@
+[submodule "ClientApp"]
+	path = ClientApp
+	url = git@github.com:AT-ST-VSTS/AT-ST-web-app.git
+	branch = master
